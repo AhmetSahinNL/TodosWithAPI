@@ -1,2 +1,2 @@
 # TodosWithAPI
-Javascript Todos With API (Example)
+Todos With API (Example)
